@@ -1,5 +1,3 @@
-# Cave
-
 ## Build:
 ```bash
     cd src
